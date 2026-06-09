@@ -1,6 +1,6 @@
 # Two-Layer Network
 
-Starter repository for the **Calculus & Optimisation** capstone on [DutchEngineer](https://dutchengineer.org).
+Starter repository for the **Calculus and Optimisation** capstone on [DutchEngineer](https://dutchengineer.org).
 
 ## What you will build
 
@@ -18,11 +18,15 @@ This is where the calculus module stops being abstract. A working backprop imple
 
 ## Getting started
 
-1. Fork this repository
-2. Clone your fork: `git clone https://github.com/<your-username>/two-layer-network-starter`
+1. **Fork this repository** — click **Fork** at the top of [this page](https://github.com/dutchengineer-org/two-layer-network-starter) to create your own copy.
+2. Clone your fork:
+   ```
+   git clone https://github.com/<your-username>/two-layer-network-starter
+   cd two-layer-network-starter
+   ```
 3. Install dependencies: `uv sync`
-4. Run the training script: `uv run python network.py`
+4. Build and run: `uv run python network.py`
 
 ## Submitting
 
-Push your completed work to your fork. Paste the repository URL into the capstone submission form in your dashboard.
+When your work is ready, paste your repository URL into the submission form on your [capstone page](https://dutchengineer.org/foundations/calculus-and-optimisation/capstone-two-layer-network/).
